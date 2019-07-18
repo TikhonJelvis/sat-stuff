@@ -1,0 +1,27 @@
+# Nix
+result
+
+# Direnv
+.direnv
+.envrc
+
+# Emacs
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+.dir-locals.el
+
+#Rust
+Cargo.lock
+*/target
+
+# macOS
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
