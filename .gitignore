@@ -18,7 +18,7 @@ tramp
 
 #Rust
 Cargo.lock
-*/target
+target
 
 # macOS
 # General
